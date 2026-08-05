@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this conceptual framework or develop models based on it, please cite it as below."
+authors:
+  - family-names: "Моисеенко"
+    given-names: "Александр"
+title: "computational-archival-physics: Framework for Extracting Mathematical Patterns from Archival Physical Models"
+version: 1.0.0
+date-released: 2026-08-05
+url: "https://github.com/alekssan8183269-lang/computational-archival-physics"
